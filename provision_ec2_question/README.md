@@ -44,4 +44,15 @@ Your playbook should:
 - Understanding of the `amazon.aws.ec2_instance` module.  
 - Proper handling of **variables** and **tags**.  
 - Awareness of **Linux vs. Windows access differences**.  
-- Clean, maintainable Ansible code.  
+- Clean, maintainable Ansible code. 
+
+--- 
+
+## Need Help?
+
+Links to documentation for modules to use:
+- [EC2 Instance](https://docs.ansible.com/ansible/latest/collections/amazon/aws/ec2_instance_module.html)
+- [EC2 VPC](https://docs.ansible.com/ansible/latest/collections/amazon/aws/ec2_vpc_net_module.html)
+- [EC2 VPC Subnet](https://docs.ansible.com/ansible/latest/collections/amazon/aws/ec2_vpc_subnet_module.html)
+
+
