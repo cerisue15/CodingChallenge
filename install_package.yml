@@ -1,0 +1,29 @@
+---
+- name: Application Install & Service Check Exercise
+  hosts: all
+  become: true
+  vars:
+    app_name: "nginx"
+    app_package: "nginx"
+    install_dir: "/opt/myapp"
+    service_name: "nginx"
+    service_port: 80
+
+  tasks:
+    - name: Ensure install directory exists
+      # fill in logic here
+
+    - name: Install application package
+      # fill in logic here
+
+    - name: Start and enable service
+      # fill in logic here
+      
+    - name: Wait for service port to be open
+      # fill in logic here
+
+    - name: Check service with HTTP request
+      # fill in logic here
+
+    - name: Debug response
+      # fill in logic here
