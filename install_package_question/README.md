@@ -35,3 +35,14 @@ Your playbook should:
 - Understanding of basic Ansible modules
 - Ability to validate that an application is actually working, not just installed.
 - Clean coding practices: variables, readability, and structure.
+
+---
+
+## Need Help?
+
+Links to documentation for modules to use:
+- [Package](https://docs.ansible.com/ansible/latest/collections/ansible/builtin/package_module.html)
+- [Wait For](https://docs.ansible.com/ansible/latest/collections/ansible/builtin/wait_for_module.html)
+- [File](https://docs.ansible.com/ansible/latest/collections/ansible/builtin/file_module.html)
+- [Service](https://docs.ansible.com/ansible/latest/collections/ansible/builtin/service_module.html)
+- [Uri](https://docs.ansible.com/ansible/latest/collections/ansible/builtin/uri_module.html)
