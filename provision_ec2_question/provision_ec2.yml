@@ -15,9 +15,13 @@
 
   tasks:
     - name: Create VPC
+      # fill in logic here
 
     - name: Create Subnet
+      # fill in logic here
 
     - name: Launch EC2 instance
+      # fill in logic here
 
     - name: Debug instance private IP
+      # fill in logic here
